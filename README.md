@@ -1,20 +1,21 @@
 # 👋 Hi there, I'm Ramanjul Reddy Kotlo (Ram)!
 
-Welcome to my GitHub profile! I'm a passionate software developer and DevOps enthusiast. Completed Graduate (MSCS) at Pace University in New York. I love exploring new technologies and working on innovative projects.
+
+Welcome to my GitHub profile! I'm a passionate software developer and DevOps enthusiast with 8 years of experience working for IBM, Accenture, and Fidelity. I recently graduated from Pace University in New York, where I specialized in in advanced technologies like Machine learning and Deep learning. 
 
 ## 🚀 About Me
 
 - 🌱 I’m currently learning and experimenting with **Generative AI** and **Deep Learning**.
+- I’m looking for roles in **DevOps**, **Site Reliability Engineering (SRE)**, **Cloud Engineering**, **Cloud Architecture**, and **Platform Engineering**.
 - 👨‍💻 I’m working on various projects, including **Docker**, **Kubernetes**, **Terraform**, and **AWS**.
-- 💬 Ask me about **Automation**, **Cloud**, **CICD**, and **DevOps** practices.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramanjulreddy-kotlo) | [Email](mailto:kotloram2504@gmail. com)
-- ⚡ Fun fact: I love playing cricket and exploring new places.
+- 💬 Ask me about **Automation**, **Cloud**, **CI/CD**, and **DevOps** practices.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ramanjulreddy-kotlo) | **kotloram2504@gmail.com**
+- ⚡ Fun fact: I love playing reading and exploring new places.
 
 ## 🛠️ My Skills
 
 - **Languages**: Python, Shell, YAML
 - **Tools & Technologies**: Docker, Kubernetes, Terraform, AWS, Azure, Git, Linux, GitHub Actions, Azure DevOps
-- **Frameworks**: Flask, Spring Boot, React
 
 ## 📈 GitHub Stats
 
@@ -28,7 +29,6 @@ Here are some of my popular repositories:
 - [Generative AI Examples](https://github.com/ramanjulreddykotlo/GenerativeAIExamples) - Python
 - [Final Project - Python](https://github.com/ramanjulreddykotlo/final_project-python) - Python
 
-Feel free to explore my repositories and contribute to any projects that interest you. Let's collaborate and create something amazing together!
 
 ---
 
